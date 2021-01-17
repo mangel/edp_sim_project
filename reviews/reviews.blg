@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: reviews.aux
+The style file: amsrn.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: bibliography.bib
+You've used 2 entries,
+            1497 wiz_defined-function locations,
+            418 strings with 2879 characters,
+and the built_in function-call counts, 1550 in all, are:
+= -- 69
+> -- 131
+< -- 0
++ -- 19
+- -- 125
+* -- 152
+:= -- 315
+add.period$ -- 0
+call.type$ -- 2
+change.case$ -- 8
+chr.to.int$ -- 0
+cite$ -- 2
+duplicate$ -- 98
+empty$ -- 51
+format.name$ -- 4
+if$ -- 166
+int.to.chr$ -- 0
+int.to.str$ -- 0
+missing$ -- 46
+newline$ -- 27
+num.names$ -- 4
+pop$ -- 93
+preamble$ -- 1
+purify$ -- 6
+quote$ -- 0
+skip$ -- 24
+stack$ -- 0
+substring$ -- 28
+swap$ -- 72
+text.length$ -- 15
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 16
+warning$ -- 0
+while$ -- 22
+width$ -- 0
+write$ -- 54

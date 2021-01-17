@@ -1,0 +1,28 @@
+% \bib, bibdiv, biblist are defined by the amsrefs package.
+\begin{bibdiv}
+\begin{biblist}
+
+\bib{hampshire_derivation_2018}{article}{
+      author={Hampshire, Damian~P.},
+       title={A derivation of maxwell's equations using the heaviside
+  notation},
+        date={2018-12-13},
+      volume={376},
+      number={2134},
+       pages={20170447},
+         url={https://royalsocietypublishing.org/doi/10.1098/rsta.2017.0447},
+}
+
+\bib{mismar_numerical_2017}{article}{
+      author={Mismar, Mai},
+       title={Numerical simulation of maxwell's equations},
+        date={2017-03},
+        ISSN={22788719, 22503021},
+      volume={7},
+      number={3},
+       pages={01\ndash 10},
+  url={http://www.iosrjen.org/Papers/vol7_issue3/Version-1/A0703010110.pdf},
+}
+
+\end{biblist}
+\end{bibdiv}
